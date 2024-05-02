@@ -1,0 +1,11 @@
+{
+  "name": "45-assignment",
+  "version": "1.0.0",
+  "description": "In this repo i create 45 Assigment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nadia Shaikh",
+  "license": "ISC"
+}
